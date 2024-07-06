@@ -3,7 +3,7 @@ BMI Calculator is an app that I have developed to take my first steps with Andro
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/Carrrolina/BMI_Calculator_App/assets/164236394/e96e8a2b-8f46-411c-b113-2c5327a92679" width="260">&emsp;<img src="https://github.com/Carrrolina/BMI_Calculator_App/assets/164236394/810fa688-b5c3-4138-9923-af781ab9d6a0a" width="260">&emsp;<img src="https://github.com/Carrrolina/BMI_Calculator_App/assets/164236394/584d860c-5277-455f-a98d-19871153ad5a" width="260">&emsp;
+<img src="https://github.com/Carrrolina/BMI_Application/assets/164236394/52949fc3-2867-4209-90db-6c983b91284d" width="260">&emsp;<img src="https://github.com/Carrrolina/BMI_Application/assets/164236394/f4083b87-b374-4e37-a671-cec979cb487b" width="260">&emsp;<img src="https://github.com/Carrrolina/BMI_Application/assets/164236394/6a21aaf3-f32d-4e3c-9b2c-992d464d9a73" width="260">&emsp;
 
 ## Technologies
 * Kotlin
