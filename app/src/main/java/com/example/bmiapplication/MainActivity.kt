@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
                     Snackbar
                         .make(
                             edtWeight,
-                            "Fill in all fields",
+                            getString(R.string.fill_in_all_fields),
                             Snackbar.LENGTH_LONG
                         )
                         .show()

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="bmi_calculator">Calculadora de IMC</string>
+    <string name="fill_in_the_fields_with_your_weight_and_height_to_calculate_your_body_mass_index">Preencha os campos com o seu peso e sua altura para calcular o índice de massa corporal (IMC)</string>
+    <string name="calculate">Calcular</string>
+    <string name="type_our_weight_here_ex_61_200">Digite o seu peso aqui. Ex.:61.200</string>
+    <string name="type_our_height_here_ex_1_65">Digite a sua altura aqui. Ex.: 1.65</string>
+    <string name="bmi_calculator_r">Calculadora de IMC</string>
+    <string name="check_below_the_bmi_result_and_its_classification">Confira abaixo o resultado do IMC e sua classificação:</string>
+    <string name="your_body_mass_index_bmi_is">O seu índice de massa corporal (IMC) é:</string>
+    <string name="normal_healthy_weight">Normal</string>
+    <string name="fill_in_all_fields">Preencha todos os campos</string>
+    <string name="underweight">Baixo peso</string>
+    <string name="normal_healthy_weight_">Normal</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="moderately_obese_class_i">Obesidade Grau I</string>
+    <string name="severely_obese_class_ii">Obesidade Grau II</string>
+    <string name="very_severely_obese_class_iii">Obesidade Mórbida</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculateur d\'IMC</string>
+    <string name="bmi_calculator">Calculateur d\'IMC</string>
+    <string name="fill_in_the_fields_with_your_weight_and_height_to_calculate_your_body_mass_index">Remplissez les champs avec votre poids et votre taille pour calculer votre indice de masse corporelle (IMC)</string>
+    <string name="calculate">Calculer</string>
+    <string name="type_our_weight_here_ex_61_200">Tapez votre poids ici. Ex.:61.200</string>
+    <string name="type_our_height_here_ex_1_65">Tapez votre taille ici. Ex.: 1.65</string>
+    <string name="bmi_calculator_r">Calculateur d\'IMC</string>
+    <string name="check_below_the_bmi_result_and_its_classification">Vérifiez ci-dessous le résultat de l\'IMC et la classification :</string>
+    <string name="your_body_mass_index_bmi_is">Votre indice de masse corporelle (IMC) est :</string>
+    <string name="normal_healthy_weight">"Corpulence Normale "</string>
+    <string name="fill_in_all_fields">Remplissez tous les champs</string>
+    <string name="underweight">Maigreur</string>
+    <string name="normal_healthy_weight_">"Corpulence Normale "</string>
+    <string name="overweight">Surpoids</string>
+    <string name="moderately_obese_class_i">Obésité Modérée (Classe I)</string>
+    <string name="severely_obese_class_ii">Obésité Sévère (Classe II)</string>
+    <string name="very_severely_obese_class_iii">Obésité Massive (Classe III)</string>
+</resources>

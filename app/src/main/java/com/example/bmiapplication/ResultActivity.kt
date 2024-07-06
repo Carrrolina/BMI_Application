@@ -21,17 +21,17 @@ class ResultActivity : AppCompatActivity() {
         tvResult.text = result.toString()
 
         val classification: String = if (result < 18.5f) {
-            "Underweight"
+            getString(R.string.underweight)
         } else if (result in 18.5f..25f) {
-            "Normal (healthy weight)"
+            getString(R.string.normal_healthy_weight_)
         } else if (result in 25f..30f) {
-            "Overweight"
+            getString(R.string.overweight)
         } else if (result in 30f..35f) {
-            "Moderately obese (Class I)"
+            getString(R.string.moderately_obese_class_i)
         } else if (result in 35f..40f) {
-            "Severely obese (Class II)"
+            getString(R.string.severely_obese_class_ii)
         } else {
-            "Very severely obese (Class III)"
+            getString(R.string.very_severely_obese_class_iii)
         }
 
         tvClassification.text = classification

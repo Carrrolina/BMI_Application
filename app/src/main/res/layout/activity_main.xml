@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:padding="16dp"
-            android:text="BMI Calculator"
+            android:text="@string/bmi_calculator"
             android:textColor="@color/white"
             android:textSize="22sp"
             android:textStyle="bold"
@@ -47,7 +47,7 @@
             android:layout_marginStart="32dp"
             android:layout_marginEnd="24dp"
             android:layout_marginBottom="24dp"
-            android:text="Fill in the fields with your weight and height to calculate your body mass index"
+            android:text="@string/fill_in_the_fields_with_your_weight_and_height_to_calculate_your_body_mass_index"
             android:textColor="@color/white"/>
 
     </LinearLayout>
@@ -57,7 +57,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:text="Calculate"
+        android:text="@string/calculate"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"/>
@@ -80,7 +80,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/rounded_bg"
             android:drawableEnd="@drawable/ic_weight"
-            android:hint="Type our weight here. Ex.:61.200"
+            android:hint="@string/type_our_weight_here_ex_61_200"
             android:inputType="numberDecimal"
             android:maxLength="6"/>
 
@@ -103,7 +103,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/rounded_bg"
             android:drawableEnd="@drawable/ic_height"
-            android:hint="Type our height here. Ex.: 1.65"
+            android:hint="@string/type_our_height_here_ex_1_65"
             android:inputType="numberDecimal"
             android:maxLength="4"
             tools:layout_editor_absoluteX="18dp"
